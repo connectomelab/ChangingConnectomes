@@ -1,0 +1,7 @@
+I"³<h3 id="dispersion">Dispersion</h3>
+<p>The following code calculates for each node to what proportion of modules or groups that node belongs to. It also returns the average ratio over all nodes for the average proportion of groups that are connected to a node. Code is available <a href="dispersion.m">here</a> and the measure is introduced in [1].</p>
+
+<h3 id="references">References</h3>
+<p>[1] Kim, J. S., and M. Kaiser. 2014. From Caenorhabditis elegans to the human connectome: a specific modular organization increases metabolic, functional and developmental efficiency. <a href="https://doi.org/10.1098/rstb.2013.0529">Philos Trans R Soc Lond B Biol Sci 369 (1653): 20130529</a></p>
+
+:ET

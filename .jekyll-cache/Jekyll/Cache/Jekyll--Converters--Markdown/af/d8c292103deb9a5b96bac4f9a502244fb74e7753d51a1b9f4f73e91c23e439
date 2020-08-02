@@ -1,0 +1,4 @@
+I"7<p>There are various toolboxes for network analysis but the most widely used is the <a href="http://www.brain-connectivity-toolbox.net/">Brain Connectivity Toolbox</a>. While being developed in Matlab, many functions are also available in C++. The toolbox contains a collection of complex network measures and large-scale neuroanatomical connectivity datasets.</p>
+
+<p>Matlab code for generating hierarchical networks can be found <a href="http://www.dynamic-connectome.org/pubs/suppl/Kaiser2010Frontiers.zip">here</a>. These routines were used for the article Marcus Kaiser and Claus Hilgetag (2010). Optimal hierarchical modular topologies for producing limited sustained activation of neural networks. Frontiers in Neuroinformatics (<a href="https://www.dynamic-connectome.org/pubs/Kaiser2010Frontiers.pdf">PDF</a>)</p>
+:ET

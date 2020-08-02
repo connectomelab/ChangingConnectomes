@@ -1,0 +1,15 @@
+I"<h3 id="functional-plasticity">Functional plasticity</h3>
+<p>Several mechanisms can be distinguished when discussing a change in synaptic weights. Many of these mechanisms are included in neural network simulators such as <a href="http://www.scholarpedia.org/article/Neuron_simulation_environment">NEURON</a>, <a href="http://www.scholarpedia.org/article/GENESIS">GENESIS</a>, <a href="http://dx.doi.org/10.4249/scholarpedia.1430">NEST</a>, <a href="http://www.scholarpedia.org/article/Brian_simulator">BRIAN</a>, or <a href="http://www.scholarpedia.org/article/VERTEX">VERTEX</a>.</p>
+
+<h3 id="structural-plasticity">Structural plasticity</h3>
+<p>Simulations for recovery after peripheral lesions are described in [1].</p>
+
+<h3 id="functional-compensation">Functional compensation</h3>
+<p>The approach of predicting which remaining brain region(s) could compensate for the loss of other brain regions is shown in [2].</p>
+
+<h3 id="references">References</h3>
+<p>[1] Butz, M., and A. van Ooyen. 2013. A simple rule for dendritic spine and axonal bouton formation can account for cortical reorganization after focal retinal lesions. <a href="https://doi.org/10.1371/journal.pcbi.1003259">PLOS Comput Biol 9 (10): e1003259</a></p>
+
+<p>[2] Kaiser, Marcus. 2020. Functional compensation after lesions: Predicting site and extent of recovery. <a href="https://arxiv.org/abs/2005.03093">arXiv:2005.03093</a></p>
+
+:ET
