@@ -1,0 +1,48 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Chapters
+    output: web
+    folderitems:
+    - title: Chapter 2
+      url: /chapter2
+      output: web
+    - title: Chapter 4
+      url: /chapter4
+      output: web
+    - title: Chapter 5
+      url: /chapter5
+      output: web
+    - title: Chapter 6
+      url: /chapter6
+      output: web
+    - title: Chapter 7
+      url: /chapter7
+      output: web
+    - title: Chapter 8
+      url: /chapter8
+      output: web
+    - title: Chapter 9
+      url: /chapter9
+      output: web
+    - title: Chapter 11
+      url: /chapter11
+      output: web
+    - title: Chapter 12
+      url: /chapter12
+      output: web
+    - title: Chapter 13
+      url: /chapter13
+      output: web
+    - title: Chapter 14
+      url: /chapter14
+      output: web
+    - title: Chapter 15
+      url: /chapter15
+      output: web
+
+ 
